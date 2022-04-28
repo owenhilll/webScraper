@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.18.0"
+  },
+  "scripts": {
+    "scrap": "nodemon scrapper.js"
+  },
+  "author": "Owen Hill",
+  "main": "scrapper.js"
+}
